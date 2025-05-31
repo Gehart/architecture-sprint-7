@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# честно одолженный скрипт
+# честно одолженный у gpt скрипт
 
 # Используем CA из Minikube
 MINIKUBE_CA_CERT=~/.minikube/ca.crt
