@@ -13,4 +13,3 @@ spec:
       - podSelector:
           matchLabels:
             role: admin-front-end
- 
